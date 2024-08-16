@@ -1,6 +1,6 @@
 *O Arquivo principal se chama "Graph-Igraph"
 
-### Bibliotecas
+### Bibliotecas:
 
 Para rodar o arquivo vc vai precisar importar as seguintes bilbiotecas:
 
@@ -16,7 +16,7 @@ Igraph
 
 
 
-### Funções
+### Funções:
 
 isnull().sum() = identifica e apresenta uma soma de todos os valores nulos
 
